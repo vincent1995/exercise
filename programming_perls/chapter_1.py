@@ -180,4 +180,3 @@ def test_8_1():
                 if test(i, bitMap):
                     b.append(str(ac) + "-"+str(i + r[0]))
     print(b[:10], b[-10:], len(b))
-
